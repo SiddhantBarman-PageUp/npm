@@ -1,0 +1,19 @@
+{
+  "name": "dev-try",
+  "version": "1.0.0",
+  "description": "just learning npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/2003sidd/npm.git"
+  },
+  "author": "siddhant barman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2003sidd/npm/issues"
+  },
+  "homepage": "https://github.com/2003sidd/npm#readme"
+}
